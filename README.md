@@ -106,7 +106,7 @@
 
 ## :globe_with_meridians: Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/harsh-hirawat-b657061b7](https://www.linkedin.com/in/abhinavvv-singh/" target="_blank">
+  <a href="https://www.linkedin.com/in/abhinavvv-singh/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>
   &nbsp;&nbsp;
