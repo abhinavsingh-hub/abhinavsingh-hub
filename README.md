@@ -106,23 +106,20 @@
 
 ## :globe_with_meridians: Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/harsh-hirawat-b657061b7" target="_blank">
+  <a href="https://www.linkedin.com/in/harsh-hirawat-b657061b7](https://www.linkedin.com/in/abhinavvv-singh/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/GreenHacker420" target="_blank">
+  <a href="https://github.com/abhinavsingh-hub" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:harsh@greenhacker.tech" target="_blank">
+  <a href="mailto:abhinavsinghdhakrekm@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" height="40"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/harsh_hirawat/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40"/>
-  </a>
+
 </p>
 
-Created with :heart: by Tushar
+Created with :heart: by Abhinav
 
 ---
