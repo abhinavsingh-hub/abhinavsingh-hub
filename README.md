@@ -65,16 +65,16 @@
 
 ## :bar_chart: GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tushar8466&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abhinavsingh-hub&show_icons=true&theme=radical" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhinavsingh-hub&layout=compact&theme=radical" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tushar8466&theme=radical" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=abhinavsingh-hub&theme=radical" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tushar8466&theme=react-dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavsingh-hub&theme=react-dark"/>
 </p>
 
 ---
