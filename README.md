@@ -23,14 +23,6 @@
 
 ---
 
-## :hammer_and_wrench: Tech Stack
-
-[![JavaScript][js-badge]][js-link] [![Python][python-badge]][python-link] [![TypeScript][ts-badge]][ts-link][![HTML][html-badge]][html-link] [![CSS][css-badge]][css-link] [![React][react-badge]][react-link] [![Bootstrap][bootstrap-badge]][bootstrap-link] [![Tailwind][tailwind-badge]][tailwind-link] [![Next.js][nextjs-badge]][nextjs-link] [![Node.js][node-badge]][node-link] [![Express][express-badge]][express-link] [![Django][django-badge]][django-link] [![Netlify][netlify-badge]][netlify-link] [![Vercel][vercel-badge]][vercel-link] [![MongoDB][mongodb-badge]][mongodb-link] [![GitHub Actions][gha-badge]][gha-link] [![Git][git-badge]][git-link] [![Docker][docker-badge]][docker-link] [![GitHub][github-badge]][github-link] [![Figma][figma-badge]][figma-link] [![Notion][notion-badge]][notion-link]
-
-
-
-<details>
-
 ### Programming Languages
 [![JavaScript][js-badge]][js-link] [![Python][python-badge]][python-link] [![TypeScript][ts-badge]][ts-link]
 
@@ -77,18 +69,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=abhinavsingh-hub&theme=react-dark"/>
 </p>
 
----
-
-## :rocket: Featured Projects
-| Project | Tech Stack |
-|---------|------------|
-| :globe_with_meridians: [Portfolio](https://github.com/GreenHacker420/portfolio) | ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white) |
-| :hand: [Gesture Canvas](https://github.com/GreenHacker420/gesture-canvas) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![MediaPipe](https://img.shields.io/badge/MediaPipe-0052FF?style=for-the-badge&logo=mediapipe&logoColor=white) |
-| :brain: [MindMend](https://github.com/GreenHacker420/MindMend) | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white) ![Mental Health](https://img.shields.io/badge/Mental_Health-4CAF50?style=for-the-badge&logo=healthicons&logoColor=white) |
-| :robot_face: [3D Gesture Game](https://github.com/GreenHacker420/3d_Game_Tensorflow) | ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Babylon.js](https://img.shields.io/badge/Babylon.js-0081C9?style=for-the-badge&logo=babylon.js&logoColor=white) ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Hand Tracking](https://img.shields.io/badge/Hand_Tracking-0052FF?style=for-the-badge&logo=mediapipe&logoColor=white) |
-| :bar_chart: [Stock Analysis Platform](https://github.com/GreenHacker420/stock-analysis-platform) | ![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![NextAuth](https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=nextauth&logoColor=white) ![Gemini AI](https://img.shields.io/badge/Gemini_AI-FF6F00?style=for-the-badge&logo=artificial-intelligence&logoColor=white) ![Finance](https://img.shields.io/badge/Finance-4CAF50?style=for-the-badge) |
-| :package: [Tally Sync ERP](https://github.com/GreenHacker420/Tally_sync) | ![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Automation](https://img.shields.io/badge/Automation-FF6F00?style=for-the-badge&logo=zapier&logoColor=white) |
-| :white_check_mark: [Task Manager + Frontend](https://github.com/GreenHacker420/task-manager-server) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) |
 
 ---
 
