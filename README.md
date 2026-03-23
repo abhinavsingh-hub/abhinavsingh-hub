@@ -16,7 +16,7 @@
 
 ## :zap: About Me
 - :mortar_board: B.Tech CSE student at **Newton School of Technology x Ajeenkya DY Patil University, Pune**
-- :robot_face: Currently working on **Computer Vision & AI projects**
+- 🤖 Currently working on **Computer Vision & AI projects**
 - :seedling: Exploring **Machine Learning, Web Development, and Cloud**
 - :sparkles: Love building projects that merge AI with real-world applications
 - :dart: Goal: To become a **versatile AI-driven full-stack innovator**
