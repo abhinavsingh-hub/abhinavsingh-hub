@@ -41,9 +41,11 @@
 ### DevOps & Tools
 [![GitHub Actions][gha-badge]][gha-link] [![Git][git-badge]][git-link] [![Docker][docker-badge]][docker-link] [![GitHub][github-badge]][github-link]
 
-
 ### UI/UX & Design
 [![Figma][figma-badge]][figma-link] [![Blender][blender-badge]][blender-link]
+
+### 🤖 AI / Machine Learning
+[![NumPy][numpy-badge]][numpy-link] [![Pandas][pandas-badge]][pandas-link] [![OpenCV][opencv-badge]][opencv-link] [![n8n][n8n-badge]][n8n-link]
 
 
 
@@ -176,3 +178,16 @@ Created with :heart: by Abhinav
 
 [blender-badge]: https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white
 [blender-link]: https://www.blender.org/
+
+<!-- AI / ML -->
+[numpy-badge]: https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
+[numpy-link]: https://numpy.org/
+
+[pandas-badge]: https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
+[pandas-link]: https://pandas.pydata.org/
+
+[opencv-badge]: https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white
+[opencv-link]: https://opencv.org/
+
+[n8n-badge]: https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white
+[n8n-link]: https://n8n.io/
