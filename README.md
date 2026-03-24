@@ -16,6 +16,7 @@
 
 ## :zap: About Me
 - :mortar_board: B.Tech CSE student at **Newton School of Technology x Ajeenkya DY Patil University, Pune**
+- 🏢 Co-Founder and President-MAARS International
 - 🗣️ International MUN winner and Public Speaker
 - 🤖 Currently working on **Computer Vision & AI projects**
 - :seedling: Exploring **Machine Learning, Web Development, and Cloud**
