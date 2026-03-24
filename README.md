@@ -16,6 +16,7 @@
 
 ## :zap: About Me
 - :mortar_board: B.Tech CSE student at **Newton School of Technology x Ajeenkya DY Patil University, Pune**
+- 🗣️ International MUN winner and Public Speaker
 - 🤖 Currently working on **Computer Vision & AI projects**
 - :seedling: Exploring **Machine Learning, Web Development, and Cloud**
 - :sparkles: Love building projects that merge AI with real-world applications
