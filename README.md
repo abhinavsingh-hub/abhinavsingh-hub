@@ -85,7 +85,7 @@
 
 ## 💻 LeetCode Stats
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/abhinavsingh-hub?theme=radical&font=Fira%20Code&ext=activity" alt="LeetCode Stats"/>
+  <img src="https://leetcard.jacoblin.cool/abhinavvsinghh?theme=radical&font=Fira%20Code&ext=activity&hide=ac_rate" alt="LeetCode Stats"/>
 </p>
 
 ---
