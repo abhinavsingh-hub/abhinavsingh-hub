@@ -4,7 +4,9 @@
 
 <h1 align="center">:wave: Hi, I'm Abhinav Singh</h1>
 
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abhinavsingh-hub&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
 
 
 
@@ -81,7 +83,18 @@
 
 ---
 
+## 💻 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/abhinavsingh-hub?theme=radical&font=Fira%20Code&ext=activity" alt="LeetCode Stats"/>
+</p>
 
+---
+
+## ♟️ Play Chess with Me!
+<!-- BEGIN CHESS BOARD -->
+<!-- END CHESS BOARD -->
+
+---
 
 ## :bulb: Fun Fact / Quote
 <p align="center">

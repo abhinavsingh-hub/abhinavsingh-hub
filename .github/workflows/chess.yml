@@ -1,0 +1,14 @@
+name: Readme Chess
+
+on:
+  issue_comment:
+    types: [created]
+
+jobs:
+  move:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: marcizhu/readme-chess@v1
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
