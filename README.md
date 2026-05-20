@@ -105,6 +105,13 @@
 |   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |   |
 <!-- END CHESS BOARD -->
 
+#### Make a Move!
+<!-- BEGIN MOVES LIST -->
+<!-- END MOVES LIST -->
+
+<!-- BEGIN LAST MOVES -->
+<!-- END LAST MOVES -->
+
 ---
 
 ## :bulb: Fun Fact / Quote
