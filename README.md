@@ -60,10 +60,6 @@
 
 
 ## :bar_chart: GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinavsingh-hub&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anhinavsingh-hub&layout=compact&theme=radical" height="180"/>
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=abhinavsingh-hub&theme=radical" height="180"/>
@@ -88,29 +84,6 @@
   <img src="https://leetcard.jacoblin.cool/abhinavvsinghh?theme=radical&font=Fira%20Code&ext=activity&hide=ac_rate" alt="LeetCode Stats"/>
 </p>
 
----
-
-## ♟️ Play Chess with Me!
-<!-- BEGIN CHESS BOARD -->
-|   | A | B | C | D | E | F | G | H |   |
-|---|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-| **8** | <img src="img/black/rook.svg" width=50px> | <img src="img/black/knight.svg" width=50px> | <img src="img/black/bishop.svg" width=50px> | <img src="img/black/queen.svg" width=50px> | <img src="img/black/king.svg" width=50px> | <img src="img/black/bishop.svg" width=50px> | <img src="img/black/knight.svg" width=50px> | <img src="img/black/rook.svg" width=50px> | **8** |
-| **7** | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | <img src="img/black/pawn.svg" width=50px> | **7** |
-| **6** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **6** |
-| **5** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **5** |
-| **4** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **4** |
-| **3** | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | <img src="img/blank.png" width=50px> | **3** |
-| **2** | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | <img src="img/white/pawn.svg" width=50px> | **2** |
-| **1** | <img src="img/white/rook.svg" width=50px> | <img src="img/white/knight.svg" width=50px> | <img src="img/white/bishop.svg" width=50px> | <img src="img/white/queen.svg" width=50px> | <img src="img/white/king.svg" width=50px> | <img src="img/white/bishop.svg" width=50px> | <img src="img/white/knight.svg" width=50px> | <img src="img/white/rook.svg" width=50px> | **1** |
-|   | **A** | **B** | **C** | **D** | **E** | **F** | **G** | **H** |   |
-<!-- END CHESS BOARD -->
-
-#### Make a Move!
-<!-- BEGIN MOVES LIST -->
-<!-- END MOVES LIST -->
-
-<!-- BEGIN LAST MOVES -->
-<!-- END LAST MOVES -->
 
 ---
 
